@@ -1,3 +1,5 @@
+#BackGround Removal code
+
 import cv2
 import cvzone
 from cvzone.SelfiSegmentationModule import SelfiSegmentation
